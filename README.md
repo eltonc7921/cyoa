@@ -6,4 +6,4 @@ Click [here](situations/candy-store.md) to start.
 
 Diagram will be shown at the end.
 
-*By: Elton and Alan*
+By: [Elton](https://github.com/eltonc7921) and [Alan](https://github.com/mankeip3531)
