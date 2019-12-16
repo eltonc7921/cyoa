@@ -2,7 +2,7 @@
 
 You climbed out from the vent and you are located in the garbage station where the prison store their garbage. You saw two garbage men are ready to take out the garbage bags and deliver them to the landfill. However, there are vomit inside of the garbage bags.
 
-[Don’t care and still jump inside of it.](grbage.md)
+[Don’t care and still jump inside of it.](garbage.md)
 
 [Not jumping into it.](telescope.md)
 
